@@ -1,8 +1,22 @@
-# My_Portfolio
-Rashmi Kushwaha<br/>
-This is my 2nd project based on development.<br/> 
-This repository contains the code of my personal portfolio website, showcasing my skills, project and more. <br/>
-Code of the project look like this:<br/>
-https://github.com/RashmiKushwaha0563/Amazon_clone/assets/149812284/3e3a53e7-da80-4970-953f-6af2177500da<br/>
-Outlook:<br/>
-https://github.com/RashmiKushwaha0563/Amazon_clone/assets/149812284/019d93b9-f9a3-46a5-aaa0-3d2e6186e50a<br/>
+Portfolio Website
+A responsive personal portfolio showcasing my skills, projects, and professional journey.
+
+Key Features
+✅ Modern UI - Clean, interactive design with smooth animations and transitions.
+✅ Dark/Light Mode - Theme toggle with localStorage to remember user preference.
+✅ Fully Responsive - Adapts seamlessly to all devices (desktop, tablet, mobile).
+✅ Dynamic Sections - Interactive tabs for skills/experience, project gallery with hover effects.
+✅ Functional Contact Form - Integrated with Google Sheets for message collection.
+
+Tech Stack
+🛠 Frontend: HTML5, CSS3 (Flexbox/Grid), JavaScript
+🎨 Styling: CSS Variables for theming, Font Awesome icons
+📱 Responsiveness: Media queries, fluid typography with clamp()
+
+Live Demo
+🔗 [Add your deployed link here]
+
+How to Run
+Clone the repo
+
+Open index.html in a browser
